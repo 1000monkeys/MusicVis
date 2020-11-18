@@ -1,0 +1,61 @@
+Chapter 1: Connected and Not Connected
+Two Kinds of People and Two Kinds of Devices
+Right now there are two kinds of people and two kinds of devices: connected and not connected. This may sound obvious or trivial; I assure you it is not. Contrary to popular belief, all people below the age of 25 are not “connected,” 
+and all people over the age of 65 are not “not connected.”
+We live in a world where the 
+adoption
+ 
+of technology is lumpy and non-homogenous
+. How much technology you have been exposed to is a huge factor in determining where you are on the technology adoption and technological proficiency curve.
+In my experience, people under the age of 25 and over the age of 45 are the most digitally skilled. Why? If you’re under 25, you were born into an all-digital world. If you’re over 45 and have kids, you were forced to learn a fair amount of digital skills to communicate with them, and your kids have been there to help you learn.
+Often, the least technologically skilled people I meet are in their late 20s to early 40s. The people who make up this cohort were not born into a digital world and do not have kids old enough to help them, and when the rest of us were learning to use digital tools, this group had the “big job” and no time (or need) to become technologically savvy.
+In truth, the reasons for the lumpy distribution of connected and not connected people and devices do not matter. What matters is that this is a fact of life in the 21st century, and every business leader will have to pay close attention to both connected and not connected people and devices in our evolving connected world.
+Need proof? Credit cards and online payment systems have not created a cashless society. According to my friends at JPMorgan Chase Bank, 95 percent of all retail transactions are still done in cash. That’s not my personal experience; I’ll use a credit card to buy a cup of coffee. But the data do not lie.
+Email and scanners were going to give us the paperless office. Nope. There are piles of paper everywhere. We scan everything in my office, but we still go through enough paper to start our own recycling business.
+As fast as the world is changing—and I am going to spend some serious time trying to convince you that it is changing much faster than you think it is—there are some types of transactions that will always take place the way they always have.
+The sad news is that you are going to be required to have centers of excellence simultaneously in both the connected and the not connected worlds in order to be considered a successful digital leader.
+Stats
+For obvious reasons, I am not a big fan of publishing statistics in books. But the trends are easy to identify:
+1. There will be more smartphones and tablets deployed tomorrow than there are today.
+2. The cost of digital file storage will be lower tomorrow than it is today.
+3. The cost of computer power will be lower tomorrow than it is today.
+4. There will be more people connected to digital networks tomorrow than there are today.
+As you can see, there is a pattern—technology, right along with connectivity, is getting more powerful and less expensive. 
+According to Intel, at the beginning of 2012 there were approximately 2 billion people connected to the Internet. By 2015, it expects the number to be over 3 billion, and remarkably, by 2020, Intel says there will be 4 billion people connected to the Internet using its chips. Cisco says that by 2020 there will be 15 billion connected devices in the world.
+ Even if these numbers are not accurate, they are still important because the trend is clear: By 2020, there will be more connected people and connected devices in the world, as many as half the global population—but it still won’t be everybody.
+What does this mean to you as a digital leader?
+Metamerica: Evolving the Governance of a Digital Democracy
+Dateline New York: April 3, 2017—With 28 of the nation’s 80 major data centers totally down and the rest just holding on, over 75 million people who rely on cloud-based computer applications and storage have been completely crippled by a loss of data that is unprecedented. It has caused the biggest financial crisis since 2008. Hundreds of software-as-services companies have lost all of their data and the economic impact will easily reach $10 trillion of combined losses.
+The White House issued a statement today urging people to stay calm. The Federal Data Depository Corporation is now saying that some people will have access to some of their data as early as next week. “Health records are job one,” said the HHS director in a joint statement. “We have back-ups for everyone’s dicom files and most of everyone’s MRIs and about 500 million x-ray files on near-line storage. It will just take time to reload the data.”
+The FCC issued a similar statement promising that the 20 billion hours of user-uploaded content stored in the cloud since 2009 and the 500 million hours of professionally produced on-demand content may be available by the end of the year.
+Sadly there is no word on when the Microsoft Office Cloud or the Adobe Cloud will be back online. And to the delight of most citizens, the IRS has lost almost every tax return for the past four years. There is one bit of good news: Verizon’s and AT&T’s LTE network can support VoIP calls, so at least some of the 165 million households and businesses without voice communication will have a work-around in the next few weeks.
+How did it happen?
+This is a partial representation of me:
+01100101001001001001010010010011101101
+10010010011101101011101010010010010010
+11001010010111010101011010010100111011
+10110100101010110101010010101101001010
+In Metamerica (the data that describe America), we are all a bunch of ones and zeros. Everything about us—our tax id numbers, social security number, credit card numbers, contact information, financial data, medical history, entertainment preferences, computer software, the content we own – everything we are is described by ones and zeros on a magnetic or optical storage device somewhere.
+Even today, we live in a world where metadata (data that describe other data) are more important than the data themselves. For example: What good are the data on your iPod without the directory that tells you what songs and videos are available and where the computer should go to get them?
+Similarly, as we enter the super-digital age, we (all of us) will be completely described by the metadata stored in Metamerica. It is the virtual country that describes our physical country, and to be perfectly frank, Metamerica is more valuable and more vulnerable than physical America.
+The advent of cloud storage, cloud computing and centralized data warehousing is more than a trend; it is a paradigm shift toward the efficiencies and fiscal benefits of storing and manipulating the information in our world digitally.
+Why pay for a group of IT technicians to patch servers and tend to racks of computers when you can plug into a computing and storage cloud and only pay for the services you use? 
+It is identical to how America transitioned from generating its own electricity to purchasing electricity from the utility grid.
+ The economics are too powerful for anything to stop this transition. It will be complete in a very few years. Want to see it today? Go to Google Apps for Business, salesforce.com, Yahoo!, Facebook—the list of software as services and subscription software and 
+cloud storage
+ companies is getting longer every day.
+Now, we live in a world where everything about everyone is stored somewhere
+. The world is evolving toward a place where access to these data is going to empower all kinds of things, good and bad. This is not so much a privacy issue (although you could label it that way) as a governance issue. What should the structure of the government of Metamerica look like? There are no geographic restrictions, no towns, no counties, no states, no country—there are just Metamericans that describe Americans. Because 
+Metamericans are data, they can be sorted any way an interested party might deem reasonable: by community of interest, by behavioral preferences, by medical issues, by DNA sample, by ... you name it. Metamericans are data, and data can be mined, analyzed and correlated in every imaginable way.
+Is your DNA covered by copyright law? Are your media or television viewing habits? Are your medical records going to be available on a local storage device, regional server, your doctor’s LAN or your HMO’s WAN or at the fictitious, but reasonable to imagine, Federal Data Depository Corporation? If 
+every bit of a Metamerican
+ (pun intended) is data, which bits are protected, which are protectable, which are private, which are semiprivate and which are public? How many nontechnical people with digital medical records will die because there were no paper records of their medical condition or history and they could not afford, or didn’t know how, to back up the data themselves?
+When my father was transferred by ambulance to a hospital from another medical facility in an emergency (?) situation, they forgot to give his paper records to the EMS technician who was transferring him. I got to the hospital an hour after he did, to find staff completely mistreating his illness because their broadband connection was down and they didn’t have any paper records to base his treatment on. I had stopped by the other medical facility and picked up his charts, but what if I had been unable to do so?
+To be honest, I’m not too worried about a terrorist attack with a dirty bomb or any other weapon of mass destruction. What I’m worried about is how we are very quickly becoming dependent on explosive amounts of centralized data and how unprotected, and unprotectable, those data are. Want to create a financial crisis that will make the recession of 2008 look like a trip to Disney World? Take out the data warehouse of the IRS, a few banks, a couple of credit reporting agencies, Google, Amazon and Microsoft. If it happened today, it would be hard to recover from. If it happens in 2017, chances are we will not be able to recover. These are just a few of the myriad issues we are going to have to think about as Metamerica and America evolve together.
+How could the Great Data Crash of 2017 occur? Maybe it will be cyber-terrorism. Maybe it will be an incredibly robust computer virus. Maybe it will be a solar coronal mass ejection that is too powerful for our atmosphere to block. Sadly, there are about a zillion ways for it to happen and only one way for it not to.
+What we need is a cross-industry task force that would include experts from the military, information technologies, healthcare, legal, telecommunications, consumer electronics, entertainment, ethics and government to get together and have a serious, 
+Socratic debate
+ on the appropriate way to govern Metamerica. This is a nontrivial problem; it’s about our economic sovereignty and our national security. To begin to solve it, we need to deal with the bigger question: How can analog leaders possibly govern a digital constituency?
+Analog Leaders and Digital Workers
+One of the most significant problems during the transition from the Industrial to the Information Age is the coexistence of analog leaders and digital workers. You can also think of this as analog generals and digital soldiers, analog doctors and digital patients, analog teachers and digital students ... no matter where you look, it is a significant problem.
+Much has been written about the way Born Digitals (kid born after 1989 who have only lived in a digital world) are different from the previous generation. Some of it makes for very interesting reading, but for us, the lesson is already clear: We need to become digital leaders! We’re going to start our journey to digital wisdom and leadership by understanding some of the fundamental realities of the Information Age. And it all starts with the rate of change.

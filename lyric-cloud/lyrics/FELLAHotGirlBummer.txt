@@ -1,0 +1,1938 @@
+DISC ONE
+01. Post-fight, Infirmary, Classroom, Main Gate
+02. Fire Cavern
+03. Balamb Garden & pre-SeeD-Mission Banter
+04. The SeeD Mission
+05. Balamb Garden, SeeD Inauguration, Training Center
+06. The Train to Timber
+07. Laguna Sequence I
+
+
+01. Post-fight, Infirmary, Classroom, Main Gate
+___________________________________________________________
+(After the opening FMV, the teen who tasted the blade first lies
+on his back on a bed in the infirmary. A motherly doctor stands
+over him, having just patched him up.)
+:
+"How are you feeling?"
+R1 --> (Ok, I guess)
+R2 --> (My forehead hurts)
+R1 (Teen): "......Ok."
+Dr. Kadowaki: "Take it easy next time, you hear?"
+R2 (Teen): "...My forehead hurts."
+Dr. Kadowaki: "No kidding."
+:
+"Looks like your eyes are focusing. You should be
+fine. Say your name for me."
+(The player names the teenager, with the default being Squall.)
+:
+"Why don't you take it easy in training? Next time
+you might not be so lucky."
+:
+"Tell that to Seifer."
+:
+"That Seifer...Won't listen to anyone. Why don't you
+ignore him?"
+:
+"I can't just run away."
+:
+"You wanna be cool, huh?  Well, don't get hurt in the
+process. Let's see, your instructor is...Quistis! I'll
+call her now. Just wait here a minute."
+(The doc walks out of sight and Squall can hear her talking in the
+other room.)
+:
+"Quistis? Come get your student. Yes, yes...His
+injury's not serious. It'll probably leave a scar.
+......Right. Now please come by."
+(A girl walks into view in one of the windows and looks down at
+the injured fighter.)
+:
+"Squall...so we meet again."
+(Squall looks over and the girl walks away without saying another
+word. Squall's instructor, Quistis, then walks into the infirmary.)
+:
+"I knew it'd either be you or Seifer! Come on, let's go.
+Today's the field exam."
+(Quistis and Squall start down the hallway.)
+:
+"Squall. Is there something on your mind?"
+:
+"Not really."
+:
+"Not really. Hahaha!"
+:
+"What's so funny?"
+:
+"Funny? No, no, it's not that! I'm just happy. I feel like
+I'm finally beginning to understand my student a little.
+That's all."
+:
+"I'm more complex than you think."
+:
+"Then tell me. Tell me more about yourself."
+:
+"It's none of your..."
+:
+"...Business!"
+(The two walk through the massive structure, and it shows other
+students walking around. The two finally arrive in one of the
+classrooms and the students lounging before the bell walk to their
+seats.)
+:
+"Good morning, class. Let's start with today's schedule.
+There seems to have been some rumors flying around since
+yesterday...Yes, the field exam for SeeD candidates will
+begin later this afternoon. Those not participating and
+those who failed last week's test are to remain here in
+study hall. Field exam participants will have free time
+until the exam. Just be sure you're in top condition.
+Meet in the hall at 1600 hours. I'll announce the team
+assignments there. Any questions? Oh, and Seifer! Do NOT
+injure your partner while training. Be careful from now
+on."
+(Seifer looks over at Squall and slams his hand on his desk.)
+:
+"Field exam participants. I will see you all later."
+(Everyone starts to leave.)
+:
+"And Squall. I need to talk to you."
+(Squall walks over to Quistis.)
+:
+"You haven't been to the  yet, have you? You
+won't be able to take part in today's SeeD exam if you don't
+pass this prerequisite."
+:
+(...I was gonna go this morning, but Seifer...)
+:
+"Hm? Do you have a good excuse?"
+:
+"...Not really."
+:
+"Then let's get going. If you're not too confident yet, you
+can review your studies at the . I'll be waiting
+at the , so come down when you're ready. You can
+access the  from ."
+(Squall walks out into the large hallway outside. He hears someone
+yelling from down the way:)
+:
+"I'm late, I'm late, I'm LATE!!!"
+(A girl in uniform runs down the hallway and bumps into Squall,
+knocking her to the ground.)
+:
+"Waaah!"
+:
+R1 --> Are you ok?
+R2 --> ......
+R1: "Are you ok?"
+: "There. Tee-hee, I'm fine. Sorry. I was kinda in a
+hurry. Oh yeah! Hey, did you just come from that
+class? Is......homeroom over?"
+R2: "......"
+: "There. Sorry. I was kinda in a hurry. Oh yeah! Hey,
+did you just come from that class? Is......homeroom
+over?"
+(Squall nods.)
+:
+"Woo...Oh, nooo...This place is soooo much bigger than my last
+Garden! Oh, hey, hey. I just transferred here. Do you think you
+could give me a quick tour of this Garden?"
+:
+R1 --> Sure
+R2 --> Don't have the time
+R1: "Sure."
+: "Whoo-hoo! Alright, let's go!"
+: "We'll take the elevator to the 1F lobby and I'll
+show you the ."
+R2: "Don't have the time."
+: "Oh, bummer. That's too bad. Well, see ya."
+(If Squall doesn't have the time, the girl will walk into the
+classroom he just left; if he finds the time, he'll take her down to
+the lobby directory via the elevator.)
+:
+"That's the directory."
+(They walk over.)
+:
+"Well, this is it. Balamb Garden is pretty big. It's a good
+idea to check where you want to go, and select it here."
+:
+"I have a question! How do you use this?"
+:
+"Move the cursor and press (X) to select. Next, I'll give a
+quick explanation of the various facilities."
+:
+"Yes, sir!"
+:
+"You'll find a dormitory to the north. A majority of the
+students live in the dorms. There aren't too many students
+who commute."
+:
+"Yeah, I'm in the dorms, too!"
+:
+"You can rest and change in there. West of the North Block
+is the cafeteria. There's always a big rush for the hot
+dogs. You better get used to waiting in line."
+:
+"Got it!"
+:
+"East of the North Block is the parking lot. We usually take
+the Garden car when a mission comes up. The front gate is
+located to the south..." (That's right...I have to go meet
+Instructor Trepe at the front gate.)
+:
+"Hm? What's the matter?"
+:
+"Nothing...Next, we have the quad, located in the West Block.
+There's an event being planned there..."
+:
+"I know! I know! It's the Garden Festival! It's going to be
+great! I'm planning to be on the committee. You wanna help
+out, too!?"
+:
+"Let's just continue. South of the West Block is the
+infirmary. This is where you get treated for your injuries,
+but a lot of students just come here for advice."
+:
+"What's the doctor's name?"
+:
+"Doctor Kadowaki. Now the East Block. This is the training
+center. It's the only facility open during the night. It's
+used for training, and they have real monsters running loose
+here. If you don't take it seriously, you may end up dead.
+Just be careful."
+:
+"(gulp)...Okay."
+:
+"South of the East Block is the library. There's a lot of
+material you can look up here, but the terminals in the
+classroom are a lot more efficient. And you already know
+about the classroom on the 2F, right?"
+Girl]:
+"Yep, I remember that one."
+Squall]:
+"By the way, the headmaster's office is located on the 3F.
+You need permission to get in."
+:
+"Another question. What's the headmaster's name?"
+:
+"Headmaster Cid. That's about it. Anything else?"
+:
+"Got it! Heeey, um...are you taking today's SeeD exam?"
+:
+"Yeah."
+:
+"Then maybe I'll see you again, later. I've already finished
+my training at my previous Garden. I'm taking the Seed exam
+today, too. Good luck to both of us, huh! Thanks a lot!"
+
+(Squall arrives at the front gate. If he hasn't checked his desk at
+all and gotten his GFs, Quistis'll say:)
+:
+"Squall, you're forgetting something...your GF."
+(Squall can name the two, default Quezacotl and Shiva, respectfully.
+If Squalls already collected his two Guardian Forces, she'll skip
+right to:)
+:
+"I have a few things to explain before we head off. GF gives
+us strength. The stronger the GF, the stronger we become.
+...So, here's a brief explanation of junctioning a GF.
+(The tutorial screen opens up.]
+:
+Junction enables characters to power up and use abilities.
+This means a GF must be junctioned in order to power up and
+use abilities. Let's begin by junctioning a GF. Right now,
+no GF is junctioned. All other commands in gray cannot be
+selected yet. Once Junction is selected, the GF and Magic
+commands appear. Since no GF is junctioned, Magic is
+displayed in gray. Let's junction a GF. By selecting GF,
+a GF list appears. Press () to see abilities possessed by
+a GF. The abilities are HP Junction, Vitality Junction,
+etc. Let's choose a GF. When GF Quezacotl is selected, its
+abilities, HP-J and Vit-J make the stats HP and Vit appear
+in white. Magic can now be junctioned to HP and Vit. But,
+since there is currently no magic, we will move onto
+setting abilities. There are 3 command abilities and 2
+non-command abilities for characters and party. A total of
+5 abilities can be set. Depending on the GF's abilities,
+the maximum is 4 non-command abilities. This means that up
+to 7 abilities can be set. Let's set some abilities. First,
+select a slot. The top window is for Command abilities used
+during battle. The bottom window is for character and party
+abilities. Selecting the top window displays command
+abilities, and selecting the bottom window displays
+character and party abilities. Since there is currently no
+magic, let's set the command ability, Draw, to get some
+magic. When an empty slot is chosen, the cursor moves to
+the right. Select Draw to set the command, Draw. This is
+how command abilities used during battle are set. Let's add
+GF and Item to the list of command abilities. Now GF and
+Item are set. Let's set a non-command ability. By moving
+the cursor down, a character ability is displayed. Now, to
+set Mag+20%, select an empty slot, and select Mag+20%.
+Mag+20% is now set. Abilities have now been set. This
+concludes the tutorial. Thank you, and good luck.
+:
+"Everything ok up till now? You can always check back by
+accessing  from the . Once we get to the
+, I'll explain how to junction magic. Use the
+command 'Draw' during battle and stock magic from your
+enemies. Be sure to have some stocked! Ready to go? The
+ used for the test is located ."
+___________________________________________________________
+02. Fire Cavern
+___________________________________________________________
+(During the party's first battle:)
+:
+"Squall, you still remember? The R1 is the trigger. Pull it
+just as you strike. Same for the Renzokuken!"
+(Quistis and her student walk to the cavern in question, past a forest
+and to the west of the Garden. They arrive on a dirt road which leads
+to the entrance.)
+:
+"Ok...Junctioning magic. Now pay attention. I'll be
+explaining how to utilize the magic you've stocked.
+(The 'Junctioning Magic' tutorial begins.)
+:
+By junctioning magic, you can raise the character's stats.
+If the GF has learned the ability to junction onto stats,
+that particular stat will be displayed in white. By
+selecting Junction here, the GF and Magic commands will
+appear. You are able to junction magic by selecting Magic.
+When Magic is selected, a list of magic appears. Use the
+cursor to select which stat to junction. When Str is
+selected, choose a magic with the cursor. You can see how
+the stat value changes with each magic. When a magic is
+selected, the magic will be displayed next to the stat and
+the value will change. Only one magic can be assigned to
+each stat. However, there is no need to junction magic
+manually, one by one. Select Auto after junctioning. 'Auto'
+junctions magic automatically. There are 3 commands to
+choose from. Atk favors Strength, Mag favors magic, and Def
+favors raising HP. Thus, magic can be junctioned easily by
+using Auto. For example, let's select the Atk junction.
+Magic has been junctioned to favor Strength. This concludes
+the Magic Junction tutorial.
+
+"When you draw a new magic, try experimenting with it when
+you junction. This is how you become stronger. Ok, ready to
+go? Oh! You know how to use your gunblade...?"
+R1 --> (...I guess I'll review it)
+R2 --> (...I already know)
+R1: "It's better to go over it." The Status Screen displays
+each character's basic data. The first status screen
+shows stats such as HP, Str, etc. The second screen shows
+all the status and elemental-related information. The
+third status screen shows GF-related information. The
+fourth status screen shows Limit Break information.
+Squall's gunblade settings can be changed in the Limit
+Break screen. There are two settings: Gunblade Auto,
+Renzokuken Indicator. If you select Gunblade Auto to ON,
+Renzokuken hits automatically without having to press
+. However, a 'Perfect' may not be possible with this
+option. You must select OFF and press  manually at
+the right time. If the Renzokuken Indicator is turned
+OFF, the indicator will not be displayed during
+Renzokuken. If the Gunblade Auto option is turned ON,
+the Renzokuken Indicator is turned OFF automatically.
+That's all for Squall's Limit Break. "Alright, let's go!"
+R2: "Oh, ok. I was just concerned, that's all. Alright, let's
+go!"
+(The two walk to the entrance. It's guarded by two men in red robes
+and yellow caps.)
+:
+"Objective: To obtain a low-level GF. A SeeD member must
+support. Are you ready?"
+Squall: R1 --> (Yes)
+R2 --> (Still need to prepare...)
+R1: "I'm ready."
+R2: 
+(After picking R1:)
+:
+"I'm his support. Instructor No. 14, Quistis Trepe."
+:
+"Select a time limit. Choose one suited to your abilities.
+Challenging yet reasonable."
+R1 --> 10 min
+R2 --> 20 min
+R3 --> 30 min
+R4 --> 40 min
+(After picking the time setting:)
+:
+"Very well. Good luck."
+(The two enter, racing against the clock to defeat the Fire Cavern
+boss.)
+:
+"My job is to support you in battle. Everything else is up
+to you."
+:
+"Fine."
+:
+"You now, the boys often choke on this test when I come
+with them. I guess my charm makes them nervous."
+:
+(...Whatever.)
+:
+"I'm just kidding! Trying to keep you relaxed, that's all."
+(Soon, the party's run into a Bomb monster.)
+:
+"Bomb...An elemental monster. Use an ice attack for these.
+Check the monster's weakness with Scan."
+
+(They defeat the monsters and run towards the center of the cavern.)
+:
+"I guess I was right. You and Seifer are in a class of your
+own. You both have amazing strength and potential."
+(They finally reach the destination, a fiery hole in the back of
+the cave.)
+:
+"Ok, this is it. Are you ready?"
+(Squall waves her off.)
+:
+"You seem confident enough."
+(A large demonic creature rises out of the hole and attacks the two.
+If Shiva should be used on the creature (Ifrit):)
+:
+"They have Shiva!?"
+(After awhile, Ifrit winds up for a punch.)
+:
+"Impudent humans!"
+(Soon, the party's laid waste to the boss.)
+:
+"For me to lose to a human...Very well, I will join you."
+(Squall completes the trial by getting the Ifrit GF.)
+:
+"There isn't much time, but let me go over this real quick.
+Good, you got yourself a GF. If you junction that GF, you'll
+be able to use the Elem-J ability. Here's an explanation on
+Elements."
+(The tutorial screen comes up again.)
+:
+Junction can change basic parameters such as Strength and
+Magic, as well as elemental parameters. By junctioning a
+GF with elemental junction ability, as magic is junctioned,
+the El-A/D slot above HP turns white, indicating an
+elemental junction. When (D-pad left) is selected, the
+elemental junction screen apears. Elemental junction works
+like any other junctions. First, select a stat to junction,
+then choose a magic to finish the junction. However,
+non-elemental magic like Cure cannot be junctioned.
+Elemental junction affects attack and defense differently.
+Junctioning to Elem-Atk links that element to a character's
+Attack. The % indicates how much of the attack's damage is
+linked to that element. At the maximum value of 100%, the
+Attack becomes entirely elemental. In the example, Ice is
+at 50%; this means that damage only increases by 50%. When
+junctioned to Elem-Def, the damage from that element is
+reduced. Reduction of damage is shown in %. At 100%, damage
+is reduced to 0. In the example, fire damage is reduced to
+20%, because Elem-Def is at 80%. (Star) is displayed when
+the value goes over 100%, indicating that damage is
+absorbed. In this state, you can absorb the amount of
+damage indicated in %. In the example, 50% of fire damage
+is absorbed. Multiple magic types can be junctioned to
+Elem-Def, depending on the GF's ability. Junction multiple
+magic types with the same elemental for a cumulative
+effect. Try junctioning different magic to check the
+effect. You can also select Auto to automatically junction
+the most effective elemental magic. This concludes the
+Elemental Junction tutorial.
+:
+"There's a lot of Fire elemental monsters here, so junction
+Blizzard to your Elem-Atk. You'll have an easier time with
+Fire elemental enemies."
+(The party heads back to Balamb Garden once the task's completed.)
+___________________________________________________________
+03. Balamb Garden & pre-SeeD-Mission Banter
+___________________________________________________________
+(At the main gate:)
+:
+"Well done. Let's see...I thought there was something else
+I needed to go over with you before you take the SeeD exam...
+Oh yes! Taking care of your GF. This is something you have to
+watch out for."
+(Yet another tutorial opens.)
+:
+A GF will level up as it gains experience (EXP), and learn
+new abilities by gaining AP (Ability Points). From EXP to
+AP: EXP gained from battles automatically levels up the GF,
+while AP gained during battle can be distributed, to learn
+different abilities. Decide how to distribute the points.
+Let's go over how a GF can learn different abilities.
+Select GF from the menu to display the GF acquired. When
+Shiva is selected, Shiva's stats are shown. This displays
+its EXP, LV, and compatibility between characters, etc.,
+but by selecting Learn, Shiva's ability list is displayed.
+Abilities in white, such as Str-J are abilities already
+learned, while abilities in gray have not been learned yet.
+The first number in gray shows the AP spent towards
+learning, and the second number shows the AP required to
+complete. Vit-J shows that 50 AP are required, of which 0
+AP has been spent. In order to learn the ability
+Elem-Atk-J, move the cursor to Elem-Atk-J and confirm.
+Elem-Atk-J wil then be displayed to the left, under
+Learning. From here on, all AP gained will be used for
+Elem-Atk-J. When all 160 AP are gained, Elem-Atk-J is
+learned. Once an ability is learned, AP will automatically
+move on to an ability not yet learned. With each learned
+ability comes a different set of abilities to learn. The
+order of learning affects the GF's powers. Therefore, it is
+recommended to return to this screen to set the next
+ability. This concludes the tutorial. Thank you, and good
+luck.
+:
+"Now change into your uniform and assemble at the
+."
+(Squall goes to his room and returns to the lobby, dressed in his
+SeeD attire. Quistis is waiting for him.)
+:
+"Squall! Over here! I'll be announcing the squad assignments
+for the exam now. Let's see...You'll be with...Zell Dincht.
+Quite a lively fellow."
+:
+"Lively? He's just loud. Can't I switch members?"
+:
+"I'm afraid that's not possible. Over here, Zell!"
+(The flamboyant Zell comes over to the two after a quick demonstration
+of his martial arts skills.)
+:
+"Whoa! I'm with you!?"
+(He sticks his hand out, but Squall doesn' take up the offer. A
+tutorial for Zell starts up.)
+:
+Zell's Limit Break can also be changed in the Status
+screen. If Duel-Auto is turned ON, the Limit Break Duel
+will execute automatically. The Limit Break moves listed on
+the screen are selected randomly. That's all for Zell's
+Limit Break."
+:
+"You don't get along with Seifer, do you? Heard he whooped you
+pretty bad this morning."
+:
+"We weren't fighting. We were training."
+:
+"I bet you he doesn't think so. Look, Seifer's just being a pain
+in the ass. All you have to do is ignore him."
+:
+"That's none of your business."
+:
+"That's none of your business. Ahem...Excuse me, but...That
+Seifer you're talking about...He's your squad leader."
+:
+"SAY WHAT!?"
+:
+"It can't be changed. Seifer! Are you here?"
+(Seifer and two other people walk over.)
+:
+(Fujin and Raijin tagging along as usual...Guess that makes
+up the whole disciplinary committee.)
+:
+"You're the squad leader. Good luck to you."
+:
+"...Instructor. I hate it when people wish me luck. Save those
+words for a bad student that needs them, eh?"
+:
+"Ok then. Good luck, Seifer."
+(Seifer beckons to Fujin and Raijin.)
+:
+"Add Instructor Trepe to the list!"
+:
+(The list...? What is it?)
+:
+"Well then. You're all assigned to Squad B. I'll be the
+instructor in charge. Teamwork is of the utmost importance.
+Let's get through this exam, everyone!"
+:
+"Listen up! Teamwork means staying out of my way. It's a
+Squad B rule. Don't you forget it!"
+:
+"Everyone here?"
+(The headmaster walks into the screen.)
+:
+"It's been a while, everyone. How's everyone doing?
+This exam will involve 12 members from Squads A
+through D...You will be proceeding to a real
+battlefield. Obviously, the battles are for real. Life
+and death, victory and defeat, honor and disgrace...
+Each of these go hand in hand. There's only one way or
+the other. How 'bout it? Are you still up for it? You
+will be accompanied by 9 SeeD members. Should you
+fail, these members shall get the job done. They
+always do. Well, that's one less worry on your mind.
+The pride of Balamb Garden! The elite mercenary force,
+SeeD! Learn from them, obey their commands and
+accomplish the mission. Prove yourselves worth of
+becoming a member of SeeD. Best of luck."
+(Squad D heads to the parking lot, where they all hop in a Garden
+vehicle. Inside:)
+:
+"Yo, Squall. Show me your gunblade, will ya?"
+:
+"........."
+:
+"C'mon, man!"
+:
+"........."
+:
+"Just a peek!"
+:
+"........."
+:
+"Tch, fine...Yeah, yeah...Why you bein' so selfish!?
+Scrooooge!"
+
+: "........."
+
+"Say somethin', will ya!? W-What's on your mind?"
+:
+"...Nothing."
+:
+"...Nothing."
+:
+"........."
+(Zell stands up and starts punching the air.)
+:
+"Stop that...It's annoying. ...Chicken-wuss."
+:
+"WHAT DID YOU CALL ME!?"
+:
+"Heheheh..."
+:
+"Knock it off!"
+(Everyone calms down in their seats.)
+:
+"...Instructor...Who was that girl in the infirmary this
+morning?"
+:
+"Was someone there? I didn't notice anybody. Is there a
+problem?"
+:
+"No...not really..."
+:
+"This is great...I have a Chicken-wuss and a guy who just
+reached puberty in my squad..."
+(The car heads to the Balamb docks, where there are numerous ships
+stationed for departure. Everyone hops out and heads to the pier.)
+:
+"So that's the vessel...?"
+
+: "Ain't no turning back now. Huh? You scared, too?"
+(A man yells from the pier.)
+:
+"Hey! You guys are the last! Hurry up and get in!"
+:
+"Don't disappoint me now."
+:
+"Come on, move it!"
+(They all go to the docks.)
+:
+"Hurry, Squall!"
+(Everyone piles into the ship and it speeds across the ocean, with a
+tiny town on the horizon: the destination. Inside, everyone sits.
+Quistis stands when another woman walks in.)
+:
+"Hi, Quistis."
+:
+"Well, these are the members of Squad B."
+
+: "Nice to meet ya!"
+:
+"Pleased to meet you..."
+:
+"Seifer, how many times has it been now?"
+:
+"Oh, I just love these exams..."
+:
+"I'll explain the current situation and the mission. Be seated!
+Our client for this mission is the Dollet Dukedom Parliament. A
+request for SeeD was made 18 hours ago. Dollet has been under
+attack by the G-Army since about 72 hours ago. 49 hours into the
+battle, Dollet abandoned their position in the inner city.
+Currently, they have retreated into the nearby mountains and are
+reorganizing their troops. That's the current status. Now onto the
+mission objective. According to our reports, the G-Army is mopping
+up the Dollet troops in the mountain region. We're to make a
+landing at Lapin Beach. We're to eliminate the remaining G-Army
+within the city and liberate it A.S.A.P. Afterwards, SeeD members
+will intercept any G-Army forces trying to make their way into the
+city from the mountain region."
+:
+"So, what are WE supposed to do?"
+:
+"SeeD candidates are to eliminate the G-Army inside the city."
+:
+"Sounds important!"
+:
+"Sounds boring. So what you're saying is, we do all the
+little, dirty work..."
+:
+"......... Oh, it hardly needs to be said, but...The order to
+withdraw takes priority. Do not forget. We're almost there. We
+anticipate a battle as soon as we disembark. Just be prepared.
+That's all. Any questions, talk to Quistis."
+
+:
+(Hmmm...)
+R1 --> Talk to Quistis
+R2 --> Talk to Seifer
+R3 --> Talk to Zell
+R4 --> Do nothing
+R1 (Quistis): "What is it Squall?"
+R5 --> Explain that again
+R6 --> It's nothing
+R2 (Seifer): "Listen up. Our goal for this mission is to
+mop up all the Galbadian soldiers still left
+in Dollet. All you boys have to do is take
+orders from me, the captain."
+R3 (Zell): "My first real battle...I'm gettin' pretty
+nervous."
+: "Better not piss in your pants."
+: "Hah!? You talkin' to me?"
+: "Heh heh..."
+: "...Bastard."
+: "Ok, enough talk. We'll be landing pretty soon.
+Get ready."
+: "Roger."
+: "Alright."
+: "Yeah, yeah...Well then, Squall. Go see what's
+going on outside."
+: "........."
+R7 --> ......Ok
+R8 --> No
+R4: "We'll be landing pretty soon. Get ready."
+: "Alright."
+: "Roger."
+: "Yeah, yeah...Well then, Squall. Go see what's
+going on outside."
+: "........."
+R7 --> ......Ok
+R8 --> No
+R5: "Here's a quick explanation. The goal for this mission is
+to eliminate the Galbadian forces that have entered
+Dollet. The order to withdraw takes priority. Be sure to
+make your way back to the shore when you get this order."
+R6: "We'll be there soon. Be ready for anything, Squall."
+R7: "......Ok."
+: "Good. Because it's MY order."
+R8: "......No."
+: "This is an order from your captain, Squall. Now
+go outside."
+: "......Ok."
+(Squall goes outside and takes out a map in an FMV. The boats sail
+across the gleam of the moon on the sea's surface, and he looks at
+the areas where the attack is going to take place. Explosions are
+already detonating on the beach as the ships arrive for the rescue
+operation.)
+___________________________________________________________
+04. The SeeD Mission
+___________________________________________________________
+(Everyone piles out of the ship as its back end opens.)
+:
+"Ok, you are to secure the ! Be sure to equip
+your GF before you head into battle!"
+:
+"Let's move out."
+(The party runs up the nearby steps and are attacked by G-Army
+footmen.)
+:
+"They're Dollet reinforcements?"
+(They cut the two men down and continue on until some more G-Army
+members jump off a branching walkway between streets and attack.)
+:
+"Look out, it's Seed!"
+(They fell the soldiers and continue on into the next section.)
+:
+"The  is up ahead. Hey! All you Galbadian
+cowards out there! Come out'n show your faces! Don't leave
+me hangin' now!"
+(Seifer runs off ahead.)
+:
+"...What an idiot."
+(They run to catch up with Seifer, and are quickly attacked by
+a stray soldier, who they deal with promptly.)
+:
+"There may be more..."
+:
+"All right, I want you guys to scout the area for enemies."
+(Near a vehicle blockade, the party finds some more soldiers. They
+lay them to rest in a quick battle.)
+:
+"I think that's all of them."
+:
+"Well then, we're on standby 'til the enemy comes.
+Standby... How boring..."
+(The party hears a loud noise.)
+:
+"Sounds like it's starting."
+:
+"Bring it on."
+(A dog starts nipping at Seifer's heel.)
+:
+"Get outta here! Scram!"
+(Seifer runs to the other side of the fountain that sits abandoned
+in the town square.)
+:
+"Hey! Galbadian Soldiers! What are you waiting for!? Come
+show me what you got!
+
+: "...Nothing."
+:
+"Still keeping us waiting...? That's it...! I can't take
+it anymore! What is this, some kind of dog training!?"
+(The dog that was annoying Seifer previously runs off and howls.
+The party ducks down as a Galbadian scout checks around and leads some troops out of town.)
+:
+"It's the enemy..."
+:
+"Where the hell they goin'?"
+(Zell looks at the top of the mountain.)
+:
+"Hey? What is that up there?"
+:
+"Our next destination."
+:
+"But that's against orders!"
+:
+"Weren't you just saying how bored you were?"
+:
+"Squall!"
+:
+"I stand by the captain's decision."
+:
+"...Captain's decision? You want to wreak some havoc too,
+don't you?"
+:
+"It's a good opportunity to test out my training. Thanks to
+you, I feel like I can take on anyone. Even if they do fight
+dirty, like you."
+:
+"You'll thank me when the time comes."
+:
+"What the hell...I thought you guys didn't get along? You're
+like, all buddy-buddy now. Listen. This ain't no ordinary
+battle. It's an exam, an important one. I'm tellin' ya, we
+have to stick to orders."
+:
+"Then you stay here. I don't need any boy scouts."
+:
+"What was that!!!?"
+:
+"Don't take him seriously, Zell. Seifer, if we're gonna
+go, let's hurry."
+:
+"The enemy is headed for the . We, Squad B,
+are to secure the summit. Move out!"
+:
+"Alright."
+:
+"Tch...Fine."
+(Seifer's crew heads across the nearby bridge that links to the
+mountaintop. As they head up one of the stairways, a Dollet soldier
+crawls into sight out of a bush.)
+:
+"Ahhh! W-W-Who are you!?"
+:
+"Don't worry. We're SeeD candidates. We've been dispatched
+by Garden."
+:
+"So what's going on up there?"
+:
+"The Galbadian soldiers have entered the
+. On top of that...that place has
+always been a nesting ground for monsters. If you guys
+are goin' up, be caref...H-HELP!!!"
+(An Anaconduar attacks from in its hiding place, and the party starts
+battle with it.)
+:
+"Listen up! The finishing blow determines the EXP. Save it
+for me!"
+(The party fends off the Anaconduar.)
+:
+"Monsters, huh?"
+:
+"That sucks."
+:
+"More fun for us. Come on...."
+:
+"...Fun? Pu-lease..."
+(They follow Seifer up the mountain, finding him lying on his stomach watching some soldiers from an outlook above. A soldier runs out of the Communications Tower to the guards near the door.)
+:
+"The generator is up and running!"
+:
+"No problem with the boosters!"
+:
+"...the hell they doing?"
+:
+"Cable disconnection confirmed! Beginning exchange
+process!"
+:
+"Roger."
+:
+"Repairs...?"
+(The soldiers run inside.)
+:
+"Who cares. This must be your first real battle. You scared?"
+:
+"...I don't know. I try not to think about it."
+:
+"I love battles. I fear nothing. The way I look at it, as long
+as you make it out of a battle alive, you're one step closer
+to fulfilling your dream."
+:
+"What!? Your dream?"
+:
+"You have one too, don't you?"
+:
+"...Sorry, but I'm gonna pass on the subject."
+:
+"Yo! Let me in on it, too!"
+:
+"Mind your own business."
+(Zell starts punching air at Seifer again.)
+:
+"Frickin' hell..."
+:
+"What's the matter, Zell? Swatting flies?"
+(Seifer walks away.)
+:
+"Damn you...!"
+:
+"There you are!"
+(A girl stands nearby, coming to talk to the party. She tumbles and
+lands near everyone. This is also the girl that Squall talked to when
+she ran into him earlier.)
+:
+"Are you...Squad B? Wait a minute...You're the guy who showed me around, right!? Thanks! I don't so lost anymore. Oh yeah, I haven't told you my name yet. I'm...a messenger. Name's Selphie, from Squad A. The squad captain's Seifer, right? Where is he?"
+[[NOTE: If you didn't show her around, she begins at "I'm...a
+messenger," obviously not recognizing Squall.]]
+(They see Seifer down at the entrance, and he stops to look up at
+everyone.)
+:
+"One of these days, I'm gonna tell ya 'bout my ROMANTIC
+dream!"
+:
+"(sigh) This sure is tough... Captain! Wait up...!!!"
+(Selphie jumps down the cliffside and walks to where Seifer just was before he entered the Comm Tower.)
+:
+"What are you waiting for!? Come on! Come on!"
+(If Squall takes the winding road down to where Selphie is:)
+:
+"What took you so long? It would've been much quicker if
+you'd just jumped."
+:
+"...Much quicker? Pu-lease... ...You wouldn't normally jump
+off a cliff, OK!? Ain't that right, Squall?"
+R1 --> Yeah, I guess so
+R2 --> I don't know about that...
+R1 (Squall): "...Yeah, I guess so. You wouldn't normally jump
+that."
+: "Hmm...I don't know... Well, anyway. Well, let's
+get goin'. Has everyone equipped a GF? You haven't
+forgotten... Have you...?"
+R2 (Squall): "...I don't know about that. Perhaps anyone but
+the Chicken-wuss can make it."
+:
+"WHAT DID YOU SAYYYYY!!!?"
+:
+"...Hm? Since you're so angry, I guess you're the
+Chicken-wuss."
+:
+"What the...!!! WHY IS EVERYONE...? I am not a
+CHICKEN!!!"
+:
+"Well... If you don't like CHICKEN, how 'bout...
+a PIG! Oh, but you look more like a CHICKEN,
+anyway."
+:
+"Chicken, pig, whatever... Call me what you want!!!
+I don't care anymore!!!"
+:
+"Don't take it so personally, Zell."
+:
+"Tch..."
+
+: "Well, let's get goin'. Has everyone equipped a GF?
+You haven't forgotten... Have you...?"
+(If Squall walks to the cliff to jump off:)
+:
+"Squall...You're not gonna...It's a cliff, man...You're not
+gonna jump off...?"
+R1 --> That's the plan
+R2 --> No way...
+R1: 
+: "Are you serious...!? Geronimoooooo!!!"
+: "Well, let's get goin'. Has everyone equipped a GF?
+You haven't forgotten... Have you...?"
+R2: "I didn't think so..." 
+(Once Selphie's finished speaking, they head towards the Communication Tower. Its many layers tower above everyone.)
+:
+"So this is the ...?"
+:
+"Sure is big..."
+:
+"Ah...AHHH!"
+(Two soldiers flee from the tower with Seifer swinging his Hyperion right behind them.)
+:
+"Cowards."
+:
+"HEEEY!"
+(Seifer walks back inside.)
+:
+"The captain's getting away!"
+(Inside, the elevator is just coming down and Seifer's nowhere to
+be seen.)
+:
+"...Did he go up?"
+:
+"Heeey! Squad B captain!!!"
+:
+"I think we can take this lift up..."
+:
+"Wanna go up?"
+R1 --> Go up
+R2 --> Stay
+R1: 
+: "Wow, this lift is pretty cool!"
+: "Don't get too excited, or you'll fall!"
+: "Like I'm really going to!"
+R2: 
+(Once they take the lift, a cutscene takes place where two Galbadian soldiers are up on the top of the tower. The red one is repairing some circuitry and a normal soldier walks over to him.)
+:
+"Major Biggs! There has been a report of a monster-shaped
+shadow on top of the tower. Major Biggs!"
+:
+"Be quiet! I'm busy! This goes like this...and...Geez, what's
+with these crappy old tools? And...and...Why do I have to make
+all the repairs!? AHHH!!!"
+:
+"Sir, I'll check around while the repairs are being done."
+:
+"Let's see...Hmmm...Put this here...and...This goes here...
+and...There, it's complete!"
+(Squall's team comes up right as Biggs says its complete. From deep within the bowels of the tower, a large piece of machinery shifts upwards: a gigantic satellite dish. It quickly starts sending out a signal to...somewhere)
+:
+"What do you think you're doing!?"
+:
+"Huhhhh? Likewise, MISTER! What do you think you're doing!?
+H-HEY! What happened to all the soldiers down below!? WEDGE!
+Take care of these twerps!!! W...Wedge?"
+(Wedge is out of sight, still patrolling.)
+:
+"I...ah...Well...ah...I seem to be done here, so I'll just
+be on my...I-I'm leaving...Move! Move! Move!
+(Seifer arrives and bats Biggs' gun out of his hand.)
+:
+"Sorry to crash the party."
+:
+"Ah...AHH...AHHHHH! Are you CRAZY!!!"
+:
+"Just shut UP!"
+(Biggs attacks everyone.)
+:
+"Prepare for the worst, you brats!"
+(Soon, Wedge appears in battle, too.)
+:
+"Major Biggs...Have you finished the repairs, sir? What
+is the enemy doing here!?"
+:
+"WEDGE! Where were you!? No pay for you this month!"
+:
+"...Should've stayed home!"
+(After awhile, the two Galbadian soldiers take a beating.)
+:
+"Major! We're doomed!"
+:
+"Stop your whining!
+(Biggs uses Cure on Wedge. After awhile, a breezy tornado comes
+down from above and starts whipping the two off the side of the
+tower.)
+:
+"What the...!?"
+:
+"Ahhhhh!"
+(A large monster sinks down from above and takes the place of Biggs and Wedge in battle.)
+:
+"What the hell is it?"
+(The party fights Elvoret.)
+:
+"Squad B Captain? S'cuse me! I have new orders! All SeeD
+members and SeeD candidates are to withdraw at 1900 hours.
+Assemble at the !"
+:
+"Withdraw!? There are still enemies around!"
+:
+"I know, but I'm just a messenger."
+:
+"An order to withdraw takes priority. I don't want to miss
+the vessel."
+:
+"What time d'you say?"
+:
+"Like I said...! All SeeD members and SeeD candidates are
+to withdraw at 1900 hours. Assemble at the !"
+:
+"1900 hours...We only have 30 minutes! You got 30 minutes to get down to the ! Better run!"
+(Seifer takes the elevator down.)
+:
+"Heeey! Wait for us!"
+:
+"Who the hell does he think he is!"
+:
+"Why don't you ask him. Let's go."
+(They take the elevator back down As the party exits, the defeated Biggs crawls to a control panel and gives directions to "something".)
+:
+"Those little twerps are the targets. Now GO!!! Go and DESTROY
+them!!!"
+(As they leave the tower, a giant spider drops down from the top of the tower.  The party fights the X-ATM092.)
+:
+"Let's get the hell outta here!"
+:
+,  buttons to escape.
+(The run from battle and into the next screen. Unfortunately, the
+spider is following them after a minor defeat.)
+:
+"I thought we already busted that thing up!?"
+:
+"Forget it! Let's go!"
+(The party leads the spider towards the beach in their haste. By the
+cafe, two SeeD hopefuls run out from their position.)
+:
+"Squad C, withdraw!"
+:
+"Roger!"
+(FMV. On the beach, Squall runs towards the departing SeeD ship
+that everyone's already hopped on. As the spider draws  close, Quistis mans the machine gun atop the boat and dismantles the spider with her quick firing. The ship departs with Squall safely aboard, and the last thing he sees is the spider blowing up on the beach.  back at the Balamb docks, Seifer climbs out and the rest of the disciplinary committee' comes to meet him.)
+:
+"SEIFER! How'd it go?"
+:
+"Man...All they did was get in my way. Being a leader ain't
+easy."
+:
+"SAFE?"
+(The three walk off together.)
+:
+"Good job!"
+(She looks around.)
+:
+"Where's Seifer? Just be back at Garden by sundown. You're free 'til then. Ok, dismissed!"
+(The party heads back to the car, but Seifer and his crew have
+commandeered it and drive off without them.)
+:
+"H-Hey!!! Not again, man! There goes Mr. Ego..."
+:
+"Might as well walk it."
+(The party heads back to Balamb Garden without Seifer.)
+___________________________________________________________
+05. Balamb Garden, SeeD Inauguration, Training Center
+___________________________________________________________
+(Zell immediately stretches when he comes to the gate.)
+:
+"Huuuwahaah! Finally made it back..."
+:
+"Seriously..."
+:
+"Well, I guess we just wait for the test results. 'Til then.
+See ya, Squall."
+:
+"See ya!"
+(Selphie and Zell depart. At the Directory, Squall sees the headmaster talking with Quistis and Xu.)
+:
+"Mission complete! I think we did a pretty good job. The
+candidates are back safely, right?"
+:
+"Although we didn't realize the Galbadian Army was after the abandoned communication tower..."
+:
+"We've just received word from the Dollet Dukedom. The
+Galbadian Army has agreed to withdraw as long as the
+communication army is repaired and the uplink remains
+operational."
+
+"Well, in any case, Galbadia is out of there. We could've made
+more money if they'd stayed and caused more ruckus."
+(Squall heads towards the dormitories when he sees Seifer.)
+:
+"Squall! D'you hear about the communication tower in Dollet?
+We would've been heroes if it weren't for that withdraw
+order."
+(Xu and Quistis walk over.)
+:
+"You were only looking for a fight."
+:
+"My dear instructor, I'm hurt. Those are rather cruel words
+for an aspiring student. A mediocre instructor like you will
+never understand."
+:
+"Seifer, don't be so stuck on yourself. You'll take all
+responsibility for leaving the designated area."
+:
+"Isn't it the captain's duty to take the best possible
+action?"
+:
+"Seifer, you'll never be a SeeD. Calling yourself a captain is a
+joke."
+(Xu leaves and the headmaster comes over to talk to Quistis, who then leaves also.)
+:
+"Seifer. You will be disciplined for your
+irresponsible behavior. You must follow orders exactly
+during combat. But I'm not entirely without sympathy
+for you. I don't want you all to become machines. I
+want you all to be able to think and act for
+yourselves. I am..."
+(A man in a red robe, like at the Fire Cavern entrance, walks over.)
+:
+"Headmaster Cid, you have some business in your
+office..."
+:
+"There are so many issues at hand here."
+(As Squall leaves towards his dorms once more, a loudspeaker clicks on.)
+:
+"All students who participated in today's field exam,
+report to the . I repeat: All
+students who took the field exam, report to the [2nd
+floor hallway]."
+(Squall detours to the second floor. There, everyone who took the
+test is lounging and waiting around for the test results. Soon a
+faculty member with a list comes.)
+:
+"Dincht...Zell Dincht."
+:
+"OHHHHH YEAHHHHHH!!! See ya!!!
+(Zell runs off quickly.)
+:
+"Squall...Squall from Squad B. Please step forward."
+(Squall walks off.)
+:
+"That is all. Dismissed."
+(Up in the headmaster's office, the students who completed the exam stand rank and file in front of Cid.)
+:
+"These are the 4 students that passed today's exam."
+:
+"First of all, congratulations. However...From now on,
+as a member of SeeD, you will be dispatched all over
+the world. We are proud to introduce SeeD, Balamb
+Garden's mercenary soldiers. SeeD soldiers are combat
+specialists. BUT...That is only one aspect of SeeD.
+When the time comes..."
+:
+"Headmaster...It's almost time for the meeting. Please
+make this short."
+(The faculty turns to the new SeeD recruits.)
+:
+"SeeD is a valuable asset to Garden. It's reputation
+is solely dependant on each one of you. Handle your
+mission with care. Is that what you wanted to say,
+sir? Here is your SeeD rank report!"
+)The headmaster takes the reports  to Selphie, handing her a SeeD rank report.)
+:
+"Psst...Psst... (I'm looking forward to the Garden
+Festival.)"
+(He goes down the line to a yet-unnamed person.)
+:
+"Psst...Psst... (Do your best, even if you don't stand
+out.)"
+(He goes over to Zell.)
+:
+"Psst...Psst... (Try to control your emotions a
+little.)"
+(He goes over to Squall last.)
+:
+"Psst...Psst... (Finally...A gunblade specialist.)"
+:
+"This ends the SeeD inauguration. Dismissed!"
+(Squall walks back to the hallway he was just at. Seifer approaches... and starts clapping. Embarrassed, the new SeeDs just stand and scratch their heads. )
+:
+As a SeeD member, you will be paid a salary at regular
+intervals. The salary is determined by SeeD rank. SeeD rank
+goes up according to your actions in battle. Some actions
+will cause your rank to go down.
+(Later on, Squall walks back to his dorm. Selphie is there already,
+and dressed in a new uniform.)
+:
+"HAH! Found you! Well, well!? What do you think? My SeeD
+uniform!
+(Squall gets changed.)
+:
+"Heeey! Lookin' good! Alright! Let's hit that PAAH-TAY!"
+(They go to the inauguration ball. Playing to his loner persona,
+Squall stands at the back of the ceremony and drinks champagne by himself. Zell walks over.)
+:
+"Yo! S'up, Squall? Heh-heh, I guess we're both SeeDs now, huh?
+Put it there, man."
+(Again, he doesn't shake his hand.)
+:
+"Hah, even as a SeeD, you're still the same. Well, that's
+typical of you. See ya."
+(Zell walks away. Off-screen, Selphie talks to Zell.)
+:
+"Oh...hey, Zell. Wanna join the Garden Festival committee
+and..."
+:
+"Sorry, I...ahh...Just remembered something! G-Gotta go. See
+ya!"
+:
+"Hmmmm...Squall! Hi!"
+(Selphie runs over.)
+:
+"Wanna join the Garden Festival committee? You can help out
+whenever you have time. Please?"
+:
+R1 --> Yeah, I guess so
+R2 --> .........
+R1: "Sure. You seem to be putting a lot of effort into this."
+: "REALLY!? Whoo-hoo! I know we'll be busy with a
+lot of SeeD stuff, but let's work hard on the
+Garden Festival, too. Bye!"
+R2:  "S'cuse me! You,
+right there!"
+(Cue FMV. Squall and a girl meet eyes from across the room. The girl holds off the conversation she was having and walks over.)
+:
+"You're the best looking guy here. Dance with me? Let me
+guess...You'll only dance with someone you like. Ok then...
+Look into my eyes...You're-going-to-like-me...You're-going-to-
+like-me...Did it work?"
+:
+"...I can't dance."
+:
+"You'll be fine. Come on. I'm looking for someon. I can't be
+on the dance floor alone."
+(FMV again. She drags him to the dance floor and he stumbles around like a third-grader. He gets the hang of it after a sec and at the end, the two share a skyline look at some fireworks. She pardons herself afterwards to go talk to someone else. Later on, Squall is standing on the balcony. Quistis walks over.)
+:
+"You really are an excellent student. Even that dance was
+perfect."
+:
+"Thank you."
+(Quistis just stands there.)
+:
+"Yes?"
+:
+"So you'll dance with someone you don't even know, but you  can't even stand being around me?"
+
+: "...Whatever. You're an instructor, and I'm your student. It's
+kind of awkward when you don't say anything."
+:
+"That's true. I was like that myself. ...Oh, I completely
+forgot. I wonder what's to be come of me? I've come to give
+you an order. You and I are to go to the 'secret area'. It's
+where students secretly meet up and talk after curfew. It's
+inside the ."
+:
+"What do you want to do there? Are we going to tell everyone
+they're violating curfew? If that's the case, forget it. Leave
+that for the disciplinary committee."
+:
+"Go get changed and meet me in front of the [training
+center]. This will be my last order."
+(Squall walks off to get changed.)
+:
+(Get changed and meet at the training center? What's this all
+about...?)
+(Squall finally meets up with Quistis in the hallway to the Garden
+training center.)
+:
+"Squall, I was just wondering...Have you fought T-Rexaur in
+the training center?"
+:
+"I'm not sure..."
+:
+"You can defeat it quite easily by using . Let's
+go over the Status changes in the Tutorial!"
+(Cue the Status Junction Explanation tutorial.)
+:
+By junctioning a GF with status junction ability, as magic
+is junctioned, the ST-A/D slot above HP turns white,
+indicating a status junction. Press (D-pad left) here twice
+to see the Status Junction screen. Status junction works
+the same way as elemental junction. First, select a stat to
+junction, then select a magic to complete the junction.
+However, magic with no status change, like Fire, cannot be
+junctioned. Status junction affects attack and defense
+differently. Junctioning to ST-Atk gives that status change
+to Attack. The status change probability is indicated in %.
+In the example, there is a 90% chance of afflicting an
+enemy with Darkness. 100% is the maximum value, but there
+are enemies who may not be affected, even with 100% ST-Atk.
+Junctioning to ST-Def reduces the probability of a status
+change. Probability is displayed in %. No status change
+will occur at 100%. In the example, the effect of Sleep
+attack is reduced by 80%. However, depending on the enemy
+attack, status change may still occur at 100%. You can
+junction multiple magic types to ST-Def, depending on the
+GF's ability. Some magic, like Esuna, will defend against
+multiple status changes. Try junctioning different magic to
+check the effect. Select Auto to junction the most
+effective status magic automatically.
+:
+"Well? Use a Sleep attack against T-Rexaur. Just junction
+'Sleep' onto your ST-Atk-J and attack. Come on, let's go to
+the 'secret area'. It's just inside the training center."
+(Together, the two go to the after-hours meeting spot and find a few people there.)
+:
+"I haven't been here for a while."
+(They both go stand by the ledge.)
+:
+"What time is it?"
+:
+"It's after midnight."
+:
+"Oh well... I, Quistis Trepe, am no longer an instructor as
+of now! I'm a member of SeeD now, just like you. Who knows,
+maybe we'll end up working together."
+:
+"...Oh really?"
+:
+"Is that all you're going to say?"
+:
+"If that's how it was decided, you have to abide by it."
+
+: "They told me that I failed as an instructor. Basically,
+that I lacked leadership qualities. I was a SeeD by the age
+of 15, got my instructor license at 17...It's only been a
+year since I got it... I wonder where I went wrong... I did
+my best... Are you listening?"
+:
+"Are you done yet...? I don't wanna talk about it. What am I
+supposed to say about other people's problems?"
+:
+"I'm not asking you to say anything. I just want you listen."
+:
+"Then go talk to a wall."
+:
+"Aren't there times when you want to share your feelings with
+someone?"
+:
+"Everyone has to take care of themselves. I don't want to
+carry anyone's burden."
+(Squall walks away.)
+:
+"...No leadership qualities... Failed instructor... Perhaps
+they're right..."
+(The two start heading back until:)
+:
+"Somebody help!!"
+:
+"Come on, Squall!"
+(The two run to the aid of a woman, the same one who visited Squall that morning in the infirmary, who's being attacked by a rather large insect.)
+:
+"Squall!!! Squall! Quisty?"
+(Quistis and Squall kill the insect and its cohorts. The girl
+falls to her knees after the battle's over, just as two men in
+white jump into the screen.)
+:
+"It is not safe here. Please, let's go."
+:
+"...Alright."
+(The two men lead her off.)
+:
+"Who was that...?"
+(Squall and Quistis walk to the hallway where they met.)
+:
+"Squall. It's not like everyone can get by on their own,
+you know?"
+(Quistis departs.)
+:
+"...Says who?"
+(Squall walks back to his dorm. Zell finds him in en route.)
+:
+"Finally! There you are! Where the hell were you? I was lookin'
+all over the place. We're both now members of SeeD, right? Well,
+guess what!? We got our own rooms, baby! Your new room's right
+across the hall from your old one. That's what I was asked to
+tell you. Man, it took me forever!"
+(Squall walks to his new room.)
+:
+"I'll just go to sleep..."
+___________________________________________________________
+06. The Train to Timber
+___________________________________________________________
+
+
+: "Squall, it's our first SeeD mission! Looks like we're going
+to . Meet . Hurry!"
+(Squall goes to the gate. Selphie, Cid, and a faculty member are both there, but...not Zell...)
+:
+"...One more minute..."
+(Zell bounds over the turnstiles on a hoverboard-type craft and
+comes to a stop near everyone.)
+:
+"Made it!"
+:
+"T-Boards are prohibited within Garden. Have you
+forgotten?"
+:
+"Oops, sorry! But this is really cool. It may come in handy on
+a SeeD mission, someday."
+:
+"We'll be the judges of that. Confiscate it."
+(Another faculty member comes over, takes the t-board, and leaves.)
+:
+"All of you are members of SeeD, but...nevertheless,
+you're still students at this Garden. Furthermore,
+because you are SeeDs, you must set an example to all
+others and abide by the Garden's rules. Understood!?"
+(Cid steps forward.)
+:
+"Well, about your first mission...You are to go to
+Timber. There, you will be supporting a resistance
+faction. That is your mission. A member of the faction
+will contact you at Timber Station."
+:
+"This person will talk to you and say, 'The forests
+of Timber sure have changed'. At this time, you must
+reply, 'But the owls are still around'. That is the
+password."
+:
+"Just follow the faction's orders."
+:
+"Uh...Just us 3?"
+:
+"Correct. We have agreed to do this mission for very
+little money. Normally, we would never accept such
+requests, but..."
+:
+"Enough talk about that. Well then, Squall, you are
+the squad leader. Use your best judgement based on the
+situation. Zell and Selphie, you are to support Squall
+and give your all to carry out the faction's plans."
+(The three SeeDs go into Balamb and buy their train tickets. Once
+onboard, the train heads into the underground tunnel connecting the island to the mainland.)
+:
+"This train is awesome!"
+:
+"An intercontinental railroad, baby! It even runs through an
+underwater tunnel to get to Timber. Pretty cool, huh?"
+:
+"Sure is..."
+:
+"Guess you're not interested... By the way, Squall... You have
+to use the ticket to get inside."
+(Squall walks over to the monitor on the wall and uses the ticket.)
+:
+"Ok, we can go inside now."
+:
+"Confirming... Access granted..."
+:
+"I'm gonna go check out the front. Tee-hee! Thanks!"
+(Selphie runs into the towards the train cabins.)
+:
+"Let's go check it out, Squall.
+(The two men walk after Selphie.)
+:
+"Yo, check it out! So this is SeeD's private cabin...!"
+(Zell walks in.)
+:
+"WHOA! OHHH YEAHHH! AWESOME!"
+(Squall walks in, finding Zell bouncing around on the couch.)
+:
+"Heh-heh. This is sooo cool!"
+:
+"...I'm glad you're so excited."
+:
+"They even have magazines here." [He gives Squall a 'Pet
+Pals Vol. 1' magazine.] "This is pretty damn amazing. It
+pays to be a member of SeeD! Squall, y'know anything about
+Timber?"
+R1 --> I don't care
+R2 --> Not too much
+R1: "C'mon, Squall. Don't be like that... I wanna tell you!"
+R3 --> Nah, it's ok
+R4 --> All right...
+R2: "Thought so. Well, let me fill you in. Timber used to be
+a country surrounded by deep forests. But 18 years ago,
+Galbadia invaded. Timber fell quite easily to Galbadia.
+So now Timber is under Galbadian occupation. It's said
+there's a whole bunch of resistance factions, big and
+small."
+: "...And?"
+: "Nope, that's it."
+: "......... ...Thank you, Mr. Know-It-All-Zell."
+: "Hey, no prob!"
+(Selphie enters.)
+R3: "C'MON! I wanna tell you what I know!"
+R5 --> Just be quiet
+R6 --> Fine... Talk
+R4: "Yep, that's what I wanted to hear. Allow me to explain
+briefly." 
+R5: 
+R6: 
+(Selphie enters whether or not Zell gets to tell the history of
+Timber.)
+:
+"I'm not...feeling well..."
+:
+"You should get some rest if you're tired."
+:
+"I'm really sleepy..."
+:
+"You ok?"
+:
+"Hey...? Huh? What the...!? Somethin's wrong with me,
+too... I...feel...sleepy..."
+(Selphie goes to the couch and instantly passes out. Zell falls back
+in his seat, sleeping like a baby .)
+:
+"What's going on? Ugh!? ...What is this?"
+(Squall clutches his head as he, too, passes out on the floor.)
+___________________________________________________________
+07. Laguna Sequence I
+___________________________________________________________
+:
+(Hmmm...?)
+(Off in the jungle, three men dressed in Galbadian uniforms run
+down a path. This sudden appearance elicits odd responses from
+the three SeeD members who are nowhere to be seen (they'll be
+denoted as 'SeeD' because they have no labels in this state of
+being).)
+:
+(What the...!?)
+:
+(Huh?)
+:
+"Uhh, Laguna, are you sure this is the right way?"
+(The three soldiers run into the next screen, a bunch of burning
+grass lighting the battle-ready mood.)
+:
+(Where am I?)
+:
+(Dream?)
+:
+(?)
+(The large man with a harpoon, Ward, speaks up.)
+:
+"Hoo-boy, not again..."
+(In the next screen:)
+:
+"Hey, aren't we here to fight a war? You know, against the
+almighty Timber army?"
+:
+"Yeah, so why are we wasting our time messin' with these
+animals?"
+:
+"Well, you see... It's just that, uhh..."
+:
+"Don't tell me we're lost again."
+:
+"Anyway... We're goin' home. Deling City, here we come!"
+:
+"W-Wait! Laguna!"
+(The three men rush to the truck nearby and drive out of the
+Timber area. They don't stop 'til they come to a large city
+setting. Laguna parks in the middle of the street.)
+:
+"H-Hey! You can't park in the middle of the street!"
+:
+"Chill man, it's cool. Alright then! How's about a drink!?"
+:
+"Whatever! Like you drink... We already know you're not in
+it for the drinking. Just admit it already!"
+:
+"Yeah, just drink some juice like a weenie. And then gawk
+at the piano lady."
+:
+"DON'T CALL HER THE 'PIANO LADY'! That's it, forget it!
+I'm not going!"
+:
+"We know you will..."
+(The men head down to the Galbadia Hotel bar and find a waitress
+nearby.)
+:
+"Welcome! Your usual table is ready."
+R1 --> (I'll walk around a bit first.)
+R2 --> (Alright, I'm there!)
+R3 --> (Huh? Excuse me?)
+NOTE: For R3, it's one of the confused SeeDs controlling the men
+thinking it, not Laguna, Kiros, or Ward.
+R1 (Laguna): "I'm gonna walk around."
+R2 (Laguna): "Thanks."
+R3 (Laguna): "What?"
+:
+"What's wrong?"
+:
+"I... I dunno.
+SeeD: (Is this a dream...?)
+SeeD: (Laguna's pretty cute!)
+SeeD: (What's goin' on!? W-What's happening to me!?)
+:
+"At ease, men."
+(They all sit down.)
+:
+"We're goin' all out tonight, right boys!?"
+:
+"May I take your order?"
+:
+"The usual!"
+:
+"Me, too."
+:
+"Keep 'em coming!"
+(The waitress leaves and a girl in a red dress walks down the
+stairs and takes her seat at the piano.)
+:
+"So, Laguna... Julia should be making her appearance soon.
+You goin' for it tonight?"
+:
+"Yeah, go for it!"
+:
+"What-ever, man! Can't you see she's working?"
+:
+"Don't go back on your word. C'mon, go wave to her."
+:
+"Give me a break..."
+:
+"So you say, but we know you'll do it."
+(Laguna approaches the piano where Julia is set to play.)
+:
+(Ah... To be this close to Julia...)
+SeeD: (Is this guy serious...?)
+
+: (...Uh-oh... My leg's cramping up...! Argh...)
+SeeD: (Sad...)
+(Laguna limps back to the table with a fairly pitiful wave to Julia.)
+:
+"Good work, Laguna."
+:
+"Mission successful!"
+:
+"Here, have a seat."
+:
+"I didn't think you'd actually do it. Our popularity rating's
+gone up a point."
+:
+"Yeah, but you cut a pretty pitiful figure up there. I'd say
+you're about a -3 on the manliness scale."
+:
+"Say what you want! (sigh...) Julia sure is pretty..."
+(Ward looks behind Laguna.)
+:
+"Aaa..."
+(Ward looks, too.)
+:
+"Hunhhh...? Laguna, we're takin' off."
+:
+"H-Hey! What's the rush?"
+:
+"It's on us tonight. Relax and stay awhile, Laguna."
+(They leave because they saw Julia approaching. So, they bolt and
+leave Laguna to fend for himself in unfamiliar waters.)
+:
+"May I?"
+:
+"Aaaaa..."
+(Laguna limps over and opens the way for her.)
+:
+"Did I interrupt anything?"
+:
+"N-N-N-Not at all. P-Please, s-sit down." (Oh man, oh man,
+it's really HER! What do I do!? Kiros? Ward? HELP! What do
+I say!? But man, she is pretty...)
+SeeD: "What's this guy thinking...?"
+:
+"You ok now?"
+:
+"Kind of..."
+:
+"How's your leg?"
+:
+"L-Leg? Oh, this!? Y-Yeah, it's fine. Happens all the time
+when I get nervous. (cough)"
+:
+"Were you nervous?"
+:
+"Oh, yeah. I'm still kinda..."
+:
+"You can relax. You don't have to get nervous around me."
+:
+"Oh, sorry."
+:
+"Say... (Would you like to talk somewhere private? I have
+a room here...)"
+(Laguna bolts upright.)
+:
+"I-In your room!?"
+:
+"Well... (It's pretty hard to talk freely here. Everyone's
+listening in.)"
+(Everyone, including Ward and Kiros, are standing right near the
+two's table, picking up every word.)
+:
+"If you'd like to, please come by. I've been wanting to talk
+to you. You don't want to?"
+:
+"Of course I do!"
+:
+"Then I'll go ahead and wait for you. Ask for my room at the
+front desk, ok?"
+(Julia leaves.)
+:
+(Am I dreaming?)
+SeeD: (...This is a dream...This is a dream...)
+:
+(No, this can't be a dream!)
+SeeD: (This is too weird to be a dream...)
+:
+(Julia...? Wants to talk to me...?)
+SeeD: (...He talks to himself too much...)
+:
+(And just the two of us! Get it together Laguna...)
+SeeD: (Whatever.)
+:
+(I always screw up by talking about myself too much. It's
+always been like that. But not tonight! I'm all ears for
+Julia! Ahh, time to use my manly charm, and help Julia with
+her problem.)
+(Laguna goes to the receptionist's booth.)
+:
+"Welcome! Checking in?"
+R1 --> Which is Julia's room?
+R2 --> Ahh...nothing
+R1 (Laguna): "Whi-Whi-Which..."
+SeeD: (Is he really going?)
+: "...Aah, Mr. Laguna Loire? I've
+been expecting you. Let me show you
+to Ms. Julia's room."
+R2 (Laguna): "Aah...Umm...Err...Well...Umm, it's not
+that..."
+:
+"?"
+(After picking R1, the receptionist drops Laguna off in Julia's
+room. She's waiting for him at the door.)
+:
+"Thanks for coming."
+:
+"No... Not at all, uh... Thank you for inviting me."
+:
+"Have a seat."
+(Laguna takes a seat around the room, not finding a comfortable
+place. He walks back over to Julia when he meets this dilemma.)
+:
+"Going so soon? We haven't even talked yet."
+:
+"No, it's not that. It's just that I'm a big fan of yours,
+so I'm really kinda nervous, y'know?"
+:
+"So that's why you come to hear me play so often."
+:
+"You... You saw me?"
+(Laguna starts pacing.)
+:
+"You were always smiling while listening, right? You have
+beautiful eyes. Though they look a bit scared now. Don't
+worry, I'm not going to pluck 'em and eat 'em. I just want
+to talk, gazing into those eyes. Would you like a drink?
+Wine perhaps?"
+:
+"I must be dreamin'..."
+(Fade out and fade in. Laguna's got his composure this time, which
+has to be the wine talking.)
+:
+"Yeah, I don't like fightin' too much, but you get to travel,
+y'know? Seeing new places n' stuff. And it's fun, 'cause Kiros
+and Ward are always with me. Hey, we should all go out
+drinkin' sometime! Whaddya say? And, uh... What was I talkin'
+about? Oh yeah, so I want to quit the army and become a
+journalist! So I can tell people 'bout all the things I've
+seen on my travels."
+SeeD: (He's already loosened up...)
+:
+"So, like, the other day, one of my articles made the
+reader's column. Pretty cool, huh? Yeah, that was way cool..."
+:
+"I'm happy for you."
+:
+"Oh yeah, and then..."
+(Fade out, fade in. Laguna's snoozing on one of Julia's bed as she
+just watches him.)
+:
+"I'm sorry. I didn't know wine made you sleepy. You look
+adorable when you're asleep."
+:
+"Argh... How'd I fall asleep?"
+(Laguna walks over to Julia.)
+:
+"Yes?"
+:
+"I...I must have fallen asleep, talking on like that... Tell
+me about yourself. Like...you dreams for the future."
+:
+"I...I want to sing. Not just play the piano, but sing, too."
+:
+"Oh, I'd really love to hear it."
+:
+"But I can't. I'm no good at writing lyrics..."
+:
+"Hmm... That must be tough."
+:
+"But, thanks to you, I think I can come up with something."
+:
+"Thanks to me...?"
+:
+"Yes... The many faces you've shown me. Times when you were
+hurt, worried... Or felt pain deep inside you... Your smile,
+your face, your eyes... You've shown me something... I think
+I can come up with a song."
+:
+"Wow... I must be dreamin'..."
+(Julia takes his hand.)
+:
+"It's not a dream, is it?"
+(Laguna turns to the door as he hears someone outside.)
+:
+"Laguna! New orders! Meet by the Presidential Residence,
+on the double!"
+:
+"Can we meet again?"
+:
+"Of course! I have to come hear you sing!"
+(Fade out, end the entire dream sequence. Selphie and Zell wake
+up, but Squall still snoozes on the floor.)
+:
+"Next stop, Timber... Timber... Next stop.
+Timber... Timber..."
+
+:
+"Were we...all asleep?"
+:\"Maybe someone released some sleeping gas? There's lots
+of people who resent SeeD."
+:
+(...Maybe. Better be careful.)
+:
+"Am I missing anything? Anyone hurt?"
+:
+"...I don't think so."
+:
+"What a relief! Everything's cool with me! Hee! I had such
+a nice dream!"
+:
+(I had a dream, too. It wasn't nice though... I dreamt I
+was a moron...)
+:
+"We will be arriving in Timber shortly. For those
+getting off, please be sure to have all your
+belongings."
+:
+"But seriously, Sir Laguna was sooo cool!"
+:
+"Hey! There was a Laguna in my dream, too! He's a Galbadian
+soldier, right!?"
+:
+"Laguna, Kiros, and Ward..."
+:
+"Huh!? That's it!"
+:
+"That's what...?"
+:
+"There's no way we can understand this... Let's just
+concentrate on our first mission!"
+:
+(...I guess you're right.) "We'll put this incident on hold.
+I'll report it to the headmaster once we get back to Garden."
+:
+"We should be there soon, eh? Here we go...Psyche yourself up,
+baby!"
+(Zell walks out.)
+:
+"Whew...Still sleepy."
+(Selphie walks out, too.)
+:
+"........."
+(Squall follows his subordinates out. The train comes to a halt in
+the Timber Station, after a lengthy ride underneath the ocean's
+surface.)
