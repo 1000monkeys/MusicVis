@@ -43,5 +43,6 @@ Vier, und wird nie vom Himmel fallen
 Fünf, hier kommt die Sonne
 Sechs, hier kommt die Sonne
 Sieben, sie ist der hellste Stern von allen
-Acht, Neun, hier kommt die Sonne
+Acht, Neun, 
+hier kommt die Sonne
 Aus!

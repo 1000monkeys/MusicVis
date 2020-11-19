@@ -1,14 +1,11 @@
-#
-"30 Lives"
+#"30 Lives"
 "30 Lives" (Original Demo)
-A
-"All Eyes"
+A"All Eyes"
 "All For You"
 "America"
 "Amsterdam"
 "Amsterdam" (Official Acoustic)
-B
-"Bad Liar"
+B"Bad Liar"
 "Bad Liar - Stripped"
 "Battle Cry"
 "Beds are Burning " (Unofficial Cover)
@@ -26,8 +23,7 @@ B
 "Bottle of Coke"
 "Bullet in a Gun"
 "Burn Out"
-C
-"Cha-Ching (Till We Grow Older)"
+C"Cha-Ching (Till We Grow Older)"
 "Clouds" (2008 Version)
 "Clouds" (2009 Version)
 "Clouds" (2011 Version)
@@ -36,8 +32,7 @@ C
 "Crash Course"*
 "Curse"
 "Curtain Call"
-D
-"Dancing in the Dark"
+D"Dancing in the Dark"
 "Darkness"
 "Demons"
 "Demons" (Official Acoustic)
@@ -50,26 +45,21 @@ D
 "Dream"
 "Dream (Jorgen Odegard Remix)"
 "Drive"
-E
-"Emma"
+E"Emma"
 "Every Breath You Take " (Unofficial Cover)
 "Every Night"
 "Everyone Believes"*
-F
-"Fallen"
+F"Fallen"
 "Falling Into You"
 "February"
 "Friction"
-G
-"Gold"
+G"Gold"
 "Gold (Jorgen Odegard Remix)"
-H
-"Hand in my Pocket " (Official Acoustic)
+H"Hand in my Pocket " (Official Acoustic)
 "Hear Me"
 "Heart Upon My Sleeve" with Avicii
 "Hopeless Opus"
-I
-"I'll Make it Up To You"
+I"I'll Make it Up To You"
 "I'm So Sorry"
 "I Am Just a Sailor"
 "I Bet My Life"
@@ -95,10 +85,7 @@ I
 "It Comes Back to You"
 "I Was Me"
 "I Wish You Well"
-J
-K
-L
-"Lean on Me"
+JKL"Lean on Me"
 "Leave Me"
 "Levitate"
 "Living Musical"
@@ -106,30 +93,24 @@ L
 "Lost Cause"
 "Love"
 "Lovesong " (Official Cover)
-M
-"Machine"
+M"Machine"
 "Mad World " (Official Cover)
 "Monster"
 "Mouth of the River"
 "My Fault"
-N
-"Natural"
+N"Natural"
 "Next To Me"
 "Nothing Left to Say"
 "Not Giving In " (Official Cover)
 "Not Today"
-O
-"Off to War"
+O"Off to War"
 "On Top of the World"
 "On Top of the World (RAC Remix)"
 "Only"
-P
-"Pantomime"
+P"Pantomime"
 "Pistol Whip"
 "Polaroid"
-Q
-R
-"Radioactive"
+QR"Radioactive"
 "Radioactive" (Official Acoustic)
 "Radioactive" ft. Kendrick Lamar
 "Radioactive (Grouplove & Captain Cuts Remix)"
@@ -140,8 +121,7 @@ R
 "Rocks"
 "Roots"
 "Round and Round"
-S
-"Second Chances"
+S"Second Chances"
 "Selene"
 "Semi-Charmed Life " (Official Cover)
 "Shots"
@@ -150,8 +130,7 @@ S
 "Shots (Broiler Remix)" ft. Broiler
 "Shots (Future Bass Remix)"
 "Shots (The Funk Hunters Remix)"
-"Skipping Stones"
- (Production)
+"Skipping Stones" (Production)
 "Smoke and Mirrors"
 "So Many Voices"
 "Speak to Me"
@@ -164,8 +143,7 @@ S
 "Song 2 " (Unofficial Cover)
 "Sucker For Pain" with Lil Wayne & Wiz Khalifa, ft. Logic, Ty Dolla $ign & X Ambassadors
 "Summer"
-T
-"Take Take Take"
+T"Take Take Take"
 "The Fall"
 "The Pit"
 "The River"
@@ -180,17 +158,13 @@ T
 "Tokyo"
 "Toxic " (Unofficial Cover)
 "Trouble"
-U
-"Underdog"
+U"Underdog"
 "Unseen"
 "Uptight"
-V
-"Volume Drops"
-W
-"Walking the Wire"
+V"Volume Drops"
+W"Walking the Wire"
 "Warriors"
-"We All Fall Down"
-*
+"We All Fall Down"*
 "West Coast"
 "Whatever it Takes"
 "Whatever it Takes" (Official Acoustic)
@@ -199,8 +173,5 @@ W
 "Who We Are"
 "Wings"
 "Working Man"
-X
-Y
-"Yesterday"
-Z
-"Zero"
+XY"Yesterday"
+Z"Zero"

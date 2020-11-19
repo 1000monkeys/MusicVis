@@ -24,7 +24,8 @@ And I protect it with fire
 
 I am the Niña, the Pinta, the Santa Maria
 The noose and the rapist, the fields' overseer
-The agents of orange, the priests of Hiroshima
+The agents of orange
+, the priests of Hiroshima
 The cost of my desire
 Sleep now in the fire
 
@@ -40,7 +41,9 @@ So swallow the one that makes you ill
 
 The Niña, the Pinta, the Santa Maria
 The noose and the rapist, the fields' overseer
-The agents of orange, the priests of Hiroshima
+The agents of orange,
+ 
+the priests of Hiroshima
 The cost of my desire
 Sleep now in the fire
 Yeah
